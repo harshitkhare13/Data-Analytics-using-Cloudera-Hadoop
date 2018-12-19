@@ -8,4 +8,4 @@ In this part, we load data from RDBMS (MySQL) to HDFS & then load data from HDFS
 - **Part 3: Stocks Analysis using Hive**     
 In this part, we run Hive queries on the stocks dataset loaded using Apache Sqoop to understand it better and then perform analysis on it. 
 - **Part 4: Twitter’s Top 10 popular Hashtag Streaming per second using Apache Spark**     
-In this part, we find Top 10 popular Hashtag on Twitter and perform Web Scraping using Spark & Scala to stream the data on per second basis. 
+In this part, we find Top 10 popular Hashtag on Twitter and perform Web Scraping using Spark & Scala to stream the data on per second basis.
